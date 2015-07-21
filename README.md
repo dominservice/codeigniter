@@ -7,3 +7,5 @@ In this place will be a list of ready-made modules
 
 ###Download the latest codeigniter version here 
 http://www.codeigniter.com/download
+
+#####In this repository you will find only the modules
