@@ -8,10 +8,13 @@ class Menu_dso {
 	* Menu_dso this open source application for authentication CodeIgniter 3.0.3 <=
 	*
 	* package Menu_dso
-	* author Matthew Domin
-	* Copyright Copyright (c) 2016 Matthew Domin. (http://dominservice.pl/)
+	* author Mateusz Domin
+	* Copyright Copyright (c) 2016 Mateusz Domin. (http://dominservice.pl/)
 	* license LGPL-3.0 - http://opensource.org/licenses/LGPL-3.0
 	* Link Http://dominservice.pl/package/Menu_dso
+	* declare this library in the "application/config/autoload.php"
+	* To start a multi-level menu, simply insert the template
+	* " <ul><?php echo $this->menu_dso->menu(); ?></ul> "
 	* /
 
 	/ **
