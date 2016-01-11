@@ -15,9 +15,9 @@ class Menu_dso {
 	* declare this library in the "application/config/autoload.php"
 	* To start a multi-level menu, simply insert the template
 	* " <ul><?php echo $this->menu_dso->menu(); ?></ul> "
-	* /
+	*/
 
-	/ **
+	/**
 	* Menu_dso
 	*
 	* Library to create a multilevel menu
